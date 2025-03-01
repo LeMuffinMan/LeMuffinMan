@@ -5,12 +5,12 @@
 ### Currently focusing on :
 
 - 💻 **C & C++ system programming.**
-- 🐧 **System (Linux).**
+- 🐧 **Linux system.**
 - 📜 **Bash scripting languages.**
 
 - 🌱 I’m currently following the **common core at 42 Lyon**.
-- 💬 Ask me about LeekScript - the language I used to nurture my very first AI, a homegrown Leek. I raised it with love, organic code, and a sprinkle of compostable functions. Think of it as free-range programming—no pesticides, just pure algorithmic goodness. 🥬
-- ⚡ Fun fact: **You can't have your stack and queue it too!**
+- 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek algorithmic AI 🥬.
+- ⚡ Muffin but the truth : While the cake **lied**, the **.py overclocked** ! Don't reject my **cookies** : grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
 
 <h2 align="center">Featured Projects</h2>
 <p>Here are some of my notable projects:</p>
