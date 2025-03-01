@@ -10,18 +10,18 @@
 
 - 💻 **C & C++ system programming.**
 - 🐧 **Linux system.**
-- 📜 **Bash scripting**
+- 📜 **Bash scripting.**
 - 🦀 **Rust programming.**
 
 <h2 align="center">Featured Projects</h2>
 
 ### Realized projects:
 <ul>
-    <li><a href="https://github.com/dArchMuffin/fract-ol">Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</li>
+    <li><strong><a href="https://github.com/dArchMuffin/fract-ol">Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
     Featuring Mandelbrot, Julia sets and a lot more. This project involved optimizing rendering algorithms for performance and creating an interactive user interface using the MinilibX graphics library.
-    <li><a href="https://github.com/dArchMuffin/42_scripts">42 scripts</a> - A collection of useful bash scripts for 42 school.</li>
+    <li><strong><a href="https://github.com/dArchMuffin/42_scripts">42 scripts</a> - A collection of useful bash scripts for 42 school.</strong></li>
 A collection of Bash scripts designed to streamline common tasks at 42 Lyon, such as automation, testing, and project setup.
-    <li><a href="https://github.com/dArchMuffin/ChessReplay">ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</li>
+    <li><strong><a href="https://github.com/dArchMuffin/ChessReplay">ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</strong></li>
 This project involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization. I coded it in between my piscine and the beginning of my 42 cursus to apply in a personal project, what I learned during my piscine.
 </ul>
 
