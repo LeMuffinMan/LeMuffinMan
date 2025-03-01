@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">I'm Muffin</h1>
+<h3 align="center">A passionate developer from France</h3>
 
-<!--
-**dArchMuffin/dArchMuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darchmuffin&label=Profile%20views&color=0e75b6&style=flat" alt="darchmuffin" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C, C++, bash, Rust**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **LeekScript**
+
+- ⚡ Fun fact **Some people like cupcakes Exclusively, while myself, I say, There is naught nor ought there be nothing So exalted on the face of god's grey Earth as that prince of foods... the Muffin!**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darchmuffin&show_icons=true&locale=en&theme=dark" alt="darchmuffin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darchmuffin&theme=dark" alt="darchmuffin" /></p>
+
