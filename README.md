@@ -1,6 +1,6 @@
 # <h1 align="center">I'm Muffin ! 🧁</h1>
 
-<p>Curious and passionate about coding, always eager to explore new technologies and domains. I'm on a journey to discover where my interests lie in the vast world of tech.</p>
+<p>Curious and passionate about systems and coding, I'm on a journey to discover where my interests lie in the vast world of tech.</p>
 
 - 🌱 I’m currently following the **common core at 42 Lyon**.
 - 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek algorithmic AI 🥬.
