@@ -10,7 +10,7 @@
 
 - 💻 **C & C++ system programming.**
 - 🐧 **Linux system.**
-- 📜 **Bash scripting languages.**
+- 📜 **Bash scripting**
 - 🦀 **Rust programming.**
 
 <h2 align="center">Featured Projects</h2>
