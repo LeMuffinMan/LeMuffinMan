@@ -2,23 +2,31 @@
 
 <p>Curious and passionate about coding, always eager to explore new technologies and domains. I'm on a journey to discover where my interests lie in the vast world of tech.</p>
 
+- 🌱 I’m currently following the **common core at 42 Lyon**.
+- 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek algorithmic AI 🥬.
+- ⚡ **Muffin** but the truth : While the cake **lied**, the **pie overclocked** ! You would not refuse my **cookies** ? Grab a **fork** and have a **byte**, so you can **test** by yourself 😋. Please, before leaving, **make** it **fclean**.
+
 ### Currently focusing on :
 
 - 💻 **C & C++ system programming.**
 - 🐧 **Linux system.**
 - 📜 **Bash scripting languages.**
-
-- 🌱 I’m currently following the **common core at 42 Lyon**.
-- 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek algorithmic AI 🥬.
-- ⚡ Muffin but the truth : While the cake **lied**, the **pie overclocked** ! Don't reject my **cookies** : grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
+- 🦀 **Rust programming.**
 
 <h2 align="center">Featured Projects</h2>
-<p>Here are some of my notable projects:</p>
+
+### Realized projects:
 <ul>
     <li><a href="https://github.com/dArchMuffin/fract-ol">Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</li>
+    Featuring Mandelbrot, Julia sets and a lot more. This project involved optimizing rendering algorithms for performance and creating an interactive user interface using the MinilibX graphics library.
     <li><a href="https://github.com/dArchMuffin/42_scripts">42 scripts</a> - A collection of useful bash scripts for 42 school.</li>
+A collection of Bash scripts designed to streamline common tasks at 42 Lyon, such as automation, testing, and project setup.
     <li><a href="https://github.com/dArchMuffin/ChessReplay">ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</li>
+This project involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization. I coded it in between my piscine and the beginning of my 42 cursus to apply in a personal project, what I learned during my piscine.
 </ul>
+
+### Ongoing Projects:
+- ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 
 <h2 align="center">Technical Skills</h2>
 <p>
@@ -27,9 +35,5 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darchmuffin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darchmuffin&show_icons=true&locale=en&theme=dark" alt="darchmuffin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darchmuffin&theme=dark" alt="darchmuffin" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darchmuffin&label=Profile%20views&color=0e75b6&style=flat" alt="darchmuffin" /> </p>
