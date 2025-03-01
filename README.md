@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently following the **common core at 42 Lyon**.
 - 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek algorithmic AI 🥬.
-- ⚡ **Muffin** but the truth : While the cake **lied**, the **pie overclocked** ! You would not refuse my **cookies** ? Grab a **fork** and have a **byte**, so you can **test** by yourself 😋. Please, before leaving, **make** it **fclean**.
+- ⚡ **Muffin** but the truth : While the cake **lied**, the **pye overclocked** ! You would not refuse my **cookies** ? Grab a **fork** and have a **byte**, so you can **test** by yourself 😋. Please, before leaving, **make** it **fclean**.
 
 ### Currently focusing on :
 
