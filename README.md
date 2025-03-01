@@ -28,12 +28,12 @@ This project involved parsing PGN files from Lichess database, learning data str
 - <strong><a href="https://github.com/dArchMuffin/42_scripts">📜 42 scripts</a></strong> A collection of Bash scripts designed to streamline common tasks at 42 Lyon, such as automation, testing, and project setup.
 - ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 
-<h2 align="center">Technical Skills</h2>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=darchmuffin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darchmuffin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
