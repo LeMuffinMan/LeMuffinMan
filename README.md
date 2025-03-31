@@ -20,7 +20,7 @@
 ### Ongoing Projects:
 
 - <strong><a href="https://github.com/dArchMuffin/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks at 42 Lyon, such as automation, testing, project setup...
-- <strong><a href="https://github.com/dArchMuffin/Muffinette">🧁 **Muffinette**</a></strong>: A minishell-minitester, execute a sequence of inputs in minishell and bash and compare outputs to streamline tests.
+- <strong><a href="https://github.com/dArchMuffin/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
 - ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 - 📄 **dotfiles**: My minimalists homemade config files. 
 
