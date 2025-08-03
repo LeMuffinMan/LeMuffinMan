@@ -4,9 +4,8 @@
 
 - 🌱 I’m currently following the **Common Core at 42 Lyon**.
 - 🔧 Arch user 🔨 trying to not break anything.
-- 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I started to code : I raised with love, organic code, and a sprinkle of compostable functions, my very first Leek AI 🥬.
+- 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I started to code : I raised with organic code my very first Leek AI 🥬.
 - ⚡ Grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
-  Please, before leaving, **make** it **fclean**.
 
 ### Currently focusing on :
 
@@ -19,7 +18,7 @@
 
 ### Ongoing Projects:
 
-- <strong><a href="https://github.com/dArchMuffin/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks at 42 Lyon, such as automation, testing, project setup...
+- <strong><a href="https://github.com/dArchMuffin/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks for 42 Common Core.
 - <strong><a href="https://github.com/dArchMuffin/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
 - ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 - 📄 **dotfiles**: My minimalists homemade config files. 
@@ -30,7 +29,7 @@
     <li><strong><a href="https://github.com/dArchMuffin/fract-ol">💫 Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
     Featuring Mandelbrot, Julia sets and a lot more. This project involved optimizing rendering algorithms for performance using the MinilibX graphics library.
     <li><strong><a href="https://github.com/dArchMuffin/ChessReplay">🔁 ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</strong></li>
-I started this project after my piscine, to apply what I learned on a personnal project. It involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization.
+Coded after my piscine, to apply what I learned on a personnal project. It involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization.
 </ul>
 
 ---
