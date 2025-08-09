@@ -18,17 +18,17 @@
 
 ### Ongoing Projects:
 
-- <strong><a href="https://github.com/dArchMuffin/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks for 42 Common Core.
-- <strong><a href="https://github.com/dArchMuffin/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
+- <strong><a href="https://github.com/LeMuffinMan/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks for 42 Common Core.
+- <strong><a href="https://github.com/LeMuffinMan/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
 - ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 - 📄 **dotfiles**: My minimalists homemade config files. 
 
 
 ### Realized projects:
 <ul>
-    <li><strong><a href="https://github.com/dArchMuffin/fract-ol">💫 Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
+    <li><strong><a href="https://github.com/LeMuffinMan/fract-ol">💫 Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
     Featuring Mandelbrot, Julia sets and a lot more. This project involved optimizing rendering algorithms for performance using the MinilibX graphics library.
-    <li><strong><a href="https://github.com/dArchMuffin/ChessReplay">🔁 ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</strong></li>
+    <li><strong><a href="https://github.com/LeMuffinMan/ChessReplay">🔁 ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</strong></li>
 Coded after my piscine, to apply what I learned on a personnal project. It involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization.
 </ul>
 
