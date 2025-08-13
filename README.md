@@ -26,7 +26,7 @@
 
 ### Realized projects:
 <ul>
-    <li><strong><a href="https://github.com/LeMuffinMan/PasszordGenerator.rs">🔒 PasswordGenerator.rs</a> - A simple password generator realized as an exercise to learn Rust basics. </strong></li> 
+    <li><strong><a href="https://github.com/LeMuffinMan/PasswordGenerator.rs">🔒 PasswordGenerator.rs</a> - A simple password generator realized as an exercise to learn Rust basics. </strong></li> 
 Using crates Clap for a reliable and user-friendly CLI, and Serde to parse TOML config file or output settings as JSON.
     <li><strong><a href="https://github.com/LeMuffinMan/fract-ol">💫 Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
     Featuring Mandelbrot, Julia sets and a lot more. This project involved optimizing rendering algorithms for performance using the MinilibX graphics library.
