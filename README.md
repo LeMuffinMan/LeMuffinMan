@@ -11,14 +11,13 @@
 
 - 💻 **C & C++ system programming.**
 - 🐧 **Linux system.**
-- 📜 **Bash scripting.**
 - 🦀 **Rust programming.**
 
 <h2 align="center">Featured Projects</h2>
 
 ### Ongoing Projects:
 
-- <strong><a href="https://github.com/LeMuffinMan/42_scripts">📜 42 scripts</a></strong>: A collection of Bash scripts designed to streamline common tasks for 42 Common Core.
+- <strong><a href="https://github.com/LeMuffinMan/bash2rust">📜🦀Bash2Rust</a></strong>: a Rust wrapper for my collection of Bash scripts designed for and during the 42 Common Core.
 - <strong><a href="https://github.com/LeMuffinMan/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
 - ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 - 📄 **dotfiles**: My minimalists homemade config files. 
