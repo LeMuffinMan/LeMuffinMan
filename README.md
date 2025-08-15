@@ -19,7 +19,7 @@
 
 - <strong><a href="https://github.com/LeMuffinMan/bash2rust">📜🦀Bash2Rust</a></strong>: a Rust wrapper for my collection of Bash scripts designed for and during the 42 Common Core.
 - <strong><a href="https://github.com/LeMuffinMan/Muffinette">🧁 **Muffinette**</a></strong>: A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.
-- ♟️ **Rust Chess Game**: Developing a chess game to learn Rust and deepen my understanding of low level languages.
+- <strong><a href="https://github.com/LeMuffinMan/ChessGame">🧁 **♟️ Rust Chess Game**</a></strong>: Developing a chess game to learn Rust and deepen my understanding of low level languages.
 - 📄 **dotfiles**: My minimalists homemade config files. 
 
 
@@ -42,5 +42,5 @@ Coded after my piscine, to apply what I learned on a personnal project. It invol
 
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMuffinMan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cacheBust=1&hide=Dockerfile" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMuffinMan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cacheBust=1&hide=Dockerfile,HTML" alt="ovi" />
 </p>
