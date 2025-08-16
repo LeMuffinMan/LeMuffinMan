@@ -40,10 +40,14 @@ Coded after my piscine, to apply what I learned on a personnal project. It invol
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+
+<p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
-
 </p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMuffinMan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cacheBust=1&hide=Dockerfile,HTML" alt="ovi" />
 </p>
