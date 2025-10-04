@@ -17,7 +17,7 @@
 
 ### Ongoing project:
 
-- <strong><a href="https://github.com/LeMuffinMan/ChessGame">**♟️ Rust Chess Game**</a></strong>: Developing a chess game to learn Rust and deepen my understanding of low level languages.
+- <strong><a href="https://github.com/LeMuffinMan/ChessGame">**♟️ Rust Chess Game**</a></strong>: Developing a chess game to learn Rust and deepen my understanding of low level languages, webassembly and CI/CD.
 
 ### Realized projects:
 <ul>
