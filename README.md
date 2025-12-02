@@ -47,5 +47,5 @@ Coded after my piscine, to apply what I learned on a personnal project. It invol
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeMuffinMan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&cacheBust=1&hide=Dockerfile,HTML" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeMuffinMan&layout=compact&langs_count=8" alt="Top languages" />
 </p>
