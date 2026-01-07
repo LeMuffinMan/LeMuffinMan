@@ -33,8 +33,8 @@ Coded after my piscine, to apply what I learned on a personnal project. It invol
 </ul>
 
 ### Miscellaneous:
-- <strong><a href="https://o-h-m.netlify.app">**📸 Personal Photography site**</a></strong> - My personnal photography realized with Hugo and deployed with Netlify.
-- <strong><a href="https://github.com/LeMuffinMan/Dotfiles">**📄 Dotfiles**</a></strong> - My minimalists homemade (and borrowed) dotfiles for Hyprland, Waybar, Kitty, Neovim and more.   
+- <strong><a href="https://o-h-m.netlify.app">**📸 Personal Photography site**</a></strong> - My personnal photography site realized with Hugo and deployed with Netlify.
+- <strong><a href="https://github.com/LeMuffinMan/Dotfiles">**📄 Dotfiles**</a></strong> - My minimalists homemade (and borrowed) dotfiles for Hyprland, Waybar, Alacritty, Zed and more.   
 ---
 
 <p align="center">
