@@ -3,7 +3,7 @@
 <p>Curious and passionate about systems and coding, I'm on a journey to discover where my interests lie in the vast world of tech.</p>
 
 - 🌱 I’m currently following the **Common Core at 42 Lyon**.
-- 🔧 Arch user 🔨 trying to not break anything... (btw).
+- 🔧 I use Arch (btw) 🔨 trying to not break anything... 
 - 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I started to code : I raised with organic code my very first Leek AI 🥬.
 - ⚡ Grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
 
