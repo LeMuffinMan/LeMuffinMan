@@ -3,20 +3,20 @@
 <p>Curious and passionate about systems and coding, I'm on a journey to discover where my interests lie in the vast world of tech.</p>
 
 - 🌱 I’m currently following the **Common Core at 42 Lyon**.
-- 🔧 Arch user 🔨 trying to not break anything.
+- 🔧 Arch user 🔨 trying to not break anything... (btw).
 - 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I started to code : I raised with organic code my very first Leek AI 🥬.
 - ⚡ Grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
 
 #### Systems & Low-Level Developer : 
 
-- 🐧 **Arch Linux daily user** with practical **Bash scripting** experience for system administration and Hyprland configuration, customization, and automation.
+- 🐧 **Linux daily user** with practical **Bash scripting** experience for system administration and Hyprland configuration, customization, and automation.
 - 💻 **Strong low-level foundations** built at 42 School through applied projects in **C and C++ systems programming**.
   
 #### Currently focusing on :
 
 - 🦀 **Rust programming:** developing robust and memory-safe systems software.
 - 🌐 **Portability and scalability architecture design:** Exploring **WebAssembly** to bridge native performance with modern web platforms, or build **serverless applications**. 
-- 🎵 **Audio programming:** building real-time applications with **low-latency constraints** and **performance optimization**.
+- 🎵 **Audio programming:** building a [real-time DSP engine](https://lemuffinman.github.io/tuners) with **low-latency constraints** and **performance optimization**.
 
 <h2 align="center">Featured Projects</h2>
 
