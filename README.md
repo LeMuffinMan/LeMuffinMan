@@ -30,11 +30,11 @@
     <li><strong><a href="https://github.com/LeMuffinMan/PasswordGenerator.rs">🔒 PasswordGenerator.rs</a> </strong> - A simple password generator realized as an exercise to learn Rust basics.</li> 
 Using crates Clap for a reliable and user-friendly CLI, and Serde to parse TOML config file or output settings as JSON.
     <li><strong><a href="https://github.com/LeMuffinMan/bash2rust">📜🦀 Bash2Rust</a></strong> - a Rust wrapper for my collection of Bash scripts designed for and during the 42 Common Core.</li>
-    <li><strong><a href="https://github.com/LeMuffinMan/Muffinette">🧁 Muffinette</a></strong> - A suite of Bash scripts I’m developing using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.</li>
+    <li><strong><a href="https://github.com/LeMuffinMan/Muffinette">🧁 Muffinette</a></strong> - A suite of Bash scripts I developped using a Test-Driven Development (TDD) approach as part of my preparation for the 42 minishell project.</li>
     <li><strong><a href="https://github.com/LeMuffinMan/fract-ol">💫 Fractol</a> - A simple fractals explorer coded in C for my 42 cursus.</strong></li>
     Featuring Mandelbrot, Julia sets and a lot more, including an animated fractal generator. This project involved optimizing rendering algorithms for performance using the MinilibX graphics library.
     <li><strong><a href="https://github.com/LeMuffinMan/ChessReplay">🔁 ChessReplay</a> - A simple PGN decoder and chess replayer written in C.</strong></li>
-Coded after my piscine, to apply what I learned on a personnal project. It involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization.
+Coded after my piscine, to apply what I learnt on a personnal project. It involved parsing PGN files from Lichess database, learning data structures, and implementing a text-based chessboard visualization.
 </ul>
 
 ### Miscellaneous:
