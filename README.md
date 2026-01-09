@@ -16,7 +16,7 @@
 
 - 🦀 **Rust programming:** developing robust and memory-safe systems software.
 - 🌐 **Portability and scalability architecture design:** Exploring **WebAssembly** to bridge native performance with modern web platforms, or build **serverless applications**. 
-- 🎵 **Audio programming:** building a [real-time DSP engine](https://lemuffinman.github.io/tuners) with **low-latency constraints** and **performance optimization**.
+- 🎵 **Audio programming:** building a [real-time DSP engine](https://github.com/LeMuffinMan/tuners) with **low-latency constraints** and **performance optimization**.
 
 <h2 align="center">Featured Projects</h2>
 
