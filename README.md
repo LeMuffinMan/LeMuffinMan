@@ -7,11 +7,16 @@
 - 💬 Ask me about **[LeekScript](https://leekwars.com/encyclopedia/en/LeekScript)** - The garden where I started to code : I raised with organic code my very first Leek AI 🥬.
 - ⚡ Grab a **fork** and have a **byte**, so you can **test** by yourself 😋.
 
-### Currently focusing on :
+#### Systems & Low-Level Developer : 
 
-- 💻 **C & C++ system programming.**
-- 🦀 **Rust programming.**
-- 🐧 **Linux system.**
+- 🐧 **Arch Linux daily user** with practical **Bash scripting** experience for system administration and Hyprland configuration, customization, and automation.
+- 💻 **Strong low-level foundations** built at 42 School through applied projects in **C and C++ systems programming**.
+  
+#### Currently focusing on :
+
+- 🦀 **Rust programming:** developing robust and memory-safe systems software.
+- 🌐 **Portability and scalability architecture design:** Exploring **WebAssembly** to bridge native performance with modern web platforms, or build **serverless applications**. 
+- 🎵 **Audio programming:** building real-time applications with **low-latency constraints** and **performance optimization**.
 
 <h2 align="center">Featured Projects</h2>
 
