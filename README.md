@@ -1,19 +1,19 @@
 # Olivier Elleaume
 
-Systems and low-level developer, currently at **42 Lyon**. Focused on **Rust**, WebAssembly, and performance-critical software.
+Systems and low-level developer, currently at **42 Lyon**. 
 
-> 🔍 Open to internship opportunities in Rust / systems development — starting September 2026.
+> 🔍 Open to internship opportunities in Rust / systems development.
 
 - 🐧 Linux native (Arch + Hyprland): Bash scripting, system tooling
-- 🦀 Rust: ownership/borrowing, WASM (wasm-pack/wasm-bindgen), async, multicrate workspaces
-- 🔧 Strong C/C++ foundations from 42 projects (memory management, syscalls, networking)
+- 🦀 Rust: ownership/borrowing, WebAssembly, async, multicrate workspaces
+- 🔧 Strong C/C++ foundations from 42 projects
 
 ---
 
 ## Featured Projects
 
 ### [♟️ ChessGame](https://github.com/LeMuffinMan/ChessGame) — Rust + WebAssembly
-A chess engine compiled to WASM, playable in the browser without any backend. Rated ~1950 Elo on Lichess.
+A chess engine compiled to WASM, playable in the browser without any backend. Rated ~2000 Elo on Lichess.
 
 - Minimax with alpha beta pruning and search optimizations (LMR, quiescence, transposition table ...)
 - Dedicated UI for desktop and mobile
