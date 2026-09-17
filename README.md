@@ -28,9 +28,6 @@ A chess engine compiled to WASM, playable in the browser without any backend. It
 
 ## 42 Common Core
 
-### [💬 ft_irc](https://github.com/LeMuffinMan/ft_irc) — IRC server in C++98, async tester in Rust
-An RFC 2812 server built on `epoll` (C++98, written with a teammate), and a tester written in Rust — async tokio; Single-threaded event loop on epoll: non-blocking sockets, partial-message buffering, no thread per client; Three async bots sharing one connection loop, interacting with users and with each other
-
 ### [🐳 Inception](https://github.com/LeMuffinMan/Inception) — Docker infrastructure from scratch
 NGINX reverse proxy, TLS, single entry point; Docker secrets for every credential, isolated internal network, healthchecks and dependency ordering; Bash scripts, including a environment checker and a sourced helper library
 
@@ -42,6 +39,9 @@ Dining philosophers: thread synchronization, mutexes, semaphores, deadlock preve
 
 ### [✨ Fract'ol](https://github.com/LeMuffinMan/fract-ol) — Fractal explorer in C
 Mandelbrot and Julia sets, real-time zoom, rendering optimization via MinilibX.
+
+### [💬 ft_irc](https://github.com/LeMuffinMan/ft_irc) — IRC server in C++98, async tester in Rust
+An RFC 2812 server built on `epoll` (C++98, written with a teammate), and a tester written in Rust — async tokio; Single-threaded event loop on epoll: non-blocking sockets, partial-message buffering, no thread per client; Three async bots sharing one connection loop, interacting with users and with each other
 
 ---
 
