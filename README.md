@@ -37,12 +37,6 @@ Parsing, pipes, redirections, environment handling, builtins, signal management.
 ### [🧵 Philosophers](https://github.com/LeMuffinMan/philosophers) — Multithreading in C
 Dining philosophers: thread synchronization, mutexes, semaphores, deadlock prevention, performance tuning.
 
-### [✨ Fract'ol](https://github.com/LeMuffinMan/fract-ol) — Fractal explorer in C
-Mandelbrot and Julia sets, real-time zoom, rendering optimization via MinilibX.
-
-### [💬 ft_irc](https://github.com/LeMuffinMan/ft_irc) — IRC server in C++98, async tester in Rust
-An RFC 2812 server built on `epoll` (C++98, written with a teammate), and a tester written in Rust — async tokio; Single-threaded event loop on epoll: non-blocking sockets, partial-message buffering, no thread per client; Three async bots sharing one connection loop, interacting with users and with each other
-
 ---
 
 [📄 Dotfiles](https://github.com/LeMuffinMan/Dotfiles) — my home made (and borrowed) dotfiles: Hyprland, Waybar, Alacritty, Zed, and more.
